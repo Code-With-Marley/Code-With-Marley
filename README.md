@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Code-With-Marley
-- 👀 I’m interested in Arudino
-- 🌱 I’m currently learning Arduino
-- 📫 How to reach me: codewithmarley@gmail.com or https://leonardlamparter.wixsite.com/code-with-marley/home
+- 👀 I’m interested in Websites and Spreadsheets
+- 🌱 I’m currently learning more about Javascript
+- 📫 How to reach me: codewithmarley@gmail.com
 
 <!---
 Code-With-Marley/Code-With-Marley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
